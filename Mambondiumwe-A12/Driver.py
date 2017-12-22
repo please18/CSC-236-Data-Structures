@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:         Marima Andrew Mambondiumwe
+# Name:         Saffa Gbondo
 # Assignment:   A12: Stacks, Queues, and the Card Game War
 # Purpose:      Create a card game called War game using queues and stacks
 #               for the data structures.
